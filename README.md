@@ -9,7 +9,7 @@ RealMeme  was the brother of  memes token family.
 
 + RealMeme will down in the history books as the most successful meme token to ever exist, and subsequent generations of meme all look up to their benevolent auntie, wondering how they can ever achieve as much as him did.
 
-+ He was determined to build RealMeme ecosystem with RealMeme Dex, RealMeme Game.
++ He was determined to build RealMeme ecosystem with RealMeme Dev, RealMeme Game.
 
 3) RealMeme Token Tokenomics:
 (No token for Dex, No Pre-sale)
