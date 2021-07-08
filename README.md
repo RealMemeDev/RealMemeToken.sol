@@ -21,9 +21,12 @@ RealMeme  was the brother of  memes token family.
 + Airdrop: 2,000,000,000,000  (RealMeme)
 + Liquidity provider (LP): 6,000,000,000,000 (RealMeme)
 
+📌 Our contract: https://bscscan.com/token/0x8722c883b172e81d4e112b0907e82e13955ec25d
+
 4) RealMeme Community:
 
 + Telegram Group: https://t.me/RealMeme_Official 
 + Telegram channel:https://t.me/RealMeme_Ann
 + Twitter: https://twitter.com/RealmemeToken
 + Website: updating
+
