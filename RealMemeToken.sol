@@ -19,7 +19,7 @@ RealMeme  was the brother of  memes token family.
 + He was determined to build RealMeme ecosystem with RealMeme Dex, RealMeme Game.
 
 3) RealMeme Token Tokenomics:
-(No token for Dex, No Pre-sale)
+(No token for Dev, No Pre-sale)
 
 + Total supply: 100,000,000,000,000  (RealMeme)
 + Total burn: 65,000,000,000,000  (RealMeme)
